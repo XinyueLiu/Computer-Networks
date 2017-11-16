@@ -5,7 +5,7 @@
 This respository includes all the course project of Computer-Networks.<br /><br />
 
 
-Lab1 - implement BellmanFord algorithm:
+Lab1 - BellmanFord algorithm
        
   print out the shortest paths from node 0 to all the other nodes.
        
