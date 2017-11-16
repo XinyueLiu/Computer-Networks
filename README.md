@@ -10,15 +10,14 @@ Lab1 - implement BellmanFord algorithm:
   print out the shortest paths from node 0 to all the other nodes.
        
   if there exist negative loops. output any one of the negative loops.
-       
-       
+<br />  
        
 Lab2 - Wishark DHCP & ARP Lab
 
   PARTI:  examine the DHCP packets captured by a host using Wireshark. 
        
   PARTII: observe ARP protocol in action by looking up ARP cache.
-       
+<br />      
      
      
 Lab3 - Ethernet network Lab
