@@ -7,9 +7,9 @@ This respository includes all the course project of Computer-Networks.<br /><br 
 
 Lab1 - BellmanFord algorithm
        
-  print out the shortest paths from node 0 to all the other nodes.
+- print out the shortest paths from node 0 to all the other nodes.
        
-  if there exist negative loops. output any one of the negative loops.<br /><br />
+- if there exist negative loops. output any one of the negative loops.<br /><br />
        
 Lab2 - Wishark DHCP & ARP Lab
 
