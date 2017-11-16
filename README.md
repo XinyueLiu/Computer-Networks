@@ -13,21 +13,21 @@ Lab1 - BellmanFord algorithm
        
 Lab2 - Wishark DHCP & ARP Lab
 
-  PARTI:  examine the DHCP packets captured by a host using Wireshark. 
+- PARTI:  examine the DHCP packets captured by a host using Wireshark. 
        
-  PARTII: observe ARP protocol in action by looking up ARP cache.<br /><br />     
+- PARTII: observe ARP protocol in action by looking up ARP cache.<br /><br />     
      
      
 Lab3 - Ethernet network Lab
 
-  Demonstrate the operation of the Ethernet network 
+- Demonstrate the operation of the Ethernet network 
        
-  Examine the performance of the Ethernet network under different scenarios<br /><br />
+- Examine the performance of the Ethernet network under different scenarios<br /><br />
        
 
 Final Project - UNIX socket programming using both TCP and UDP connections.
 
-  The project has 2 major phases: 
+- The project has 2 major phases: 
       
    1) Three tweet person opens its input file (TweetA.txt, TweetB.txt or TweetC.txt) and opens a TCP connection with the server to send tweets.  
    ![alt text](http://www-scf.usc.edu/~liuxinyu/cn_final_phase1.png)
