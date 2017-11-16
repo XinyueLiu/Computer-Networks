@@ -9,8 +9,7 @@ Lab1 - implement BellmanFord algorithm:
        
   print out the shortest paths from node 0 to all the other nodes.
        
-  if there exist negative loops. output any one of the negative loops.
-<br />  
+  if there exist negative loops. output any one of the negative loops.<br />  
        
 Lab2 - Wishark DHCP & ARP Lab
 
