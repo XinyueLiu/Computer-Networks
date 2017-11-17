@@ -5,27 +5,27 @@
 This respository includes all the course project of Computer-Networks.<br /><br />
 
 
-Lab1 - BellmanFord algorithm
+## Lab1 - BellmanFord algorithm
        
 - print out the shortest paths from node 0 to all the other nodes.
        
 - if there exist negative loops. output any one of the negative loops.<br /><br />
        
-Lab2 - Wishark DHCP & ARP Lab
+## Lab2 - Wishark DHCP & ARP Lab
 
 - PARTI:  examine the DHCP packets captured by a host using Wireshark. 
        
 - PARTII: observe ARP protocol in action by looking up ARP cache.<br /><br />     
      
      
-Lab3 - Ethernet network Lab
+## Lab3 - Ethernet network Lab
 
 - Demonstrate the operation of the Ethernet network 
        
 - Examine the performance of the Ethernet network under different scenarios<br /><br />
        
 
-Final Project - UNIX socket programming using both TCP and UDP connections.
+## Final Project - UNIX socket programming using both TCP and UDP connections.
 
 - The project has 2 major phases: 
       
